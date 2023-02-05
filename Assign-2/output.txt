@@ -1,0 +1,92 @@
+----- Query-1 OUTPUT -----
+--      name
+------------------
+-- Courtney Walsh
+-- Richard Hadlee
+--(2 rows)
+-----------------------------
+--
+--
+------- Query-2 OUTPUT -----
+--      name
+------------------
+--(0 rows)
+-----------------------------
+--
+--
+------- Query-3 OUTPUT -----
+--     name
+----------------
+-- David Boon
+-- Andy Flowers
+--(2 rows)
+-----------------------------
+--
+--
+------- Query-4 OUTPUT -----
+-- name | address
+--------+---------
+--(0 rows)
+-----------------------------
+--
+--
+------- Query-5 OUTPUT -----
+-- name | insuaranceid
+--------+--------------
+--(0 rows)
+-----------------------------
+--
+--
+------- Query-6 OUTPUT -----
+--    name
+--------------
+-- David Boon
+--(1 rows)
+-----------------------------
+--
+--
+------- Query-7 OUTPUT -----
+-- Nurse Name | Nurse Position | Accompanying Physician
+--------------+----------------+------------------------
+-- David Boon | Nurse          | Courtney Walsh
+--(1 rows)
+-----------------------------
+--
+--
+------- Query-8 OUTPUT -----
+--      name
+------------------
+-- Courtney Walsh
+--(1 rows)
+-----------------------------
+--
+--
+------- Query-9 OUTPUT -----
+--     name
+----------------
+-- Jeff Thomson
+--(1 rows)
+-----------------------------
+--
+--
+------- Query-10 OUTPUT -----
+-- Physician Name | Procedure Name  |        Date         | Patient Name
+------------------+-----------------+---------------------+--------------
+-- Jeff Thomson   | cholecystectomy | 2018-05-09 00:00:00 | Ramiz Raza
+--(1 rows)
+-----------------------------
+--
+--
+------- Query-11 OUTPUT -----
+-- Patient Name | Physician Name
+----------------+----------------
+--(0 rows)
+-----------------------------
+--
+--
+------- Query-12 OUTPUT -----
+-- Medication Name | Medication Brand
+-------------------+------------------
+-- Actemra         | Foolki Labs
+--(1 rows)
+-----------------------------
